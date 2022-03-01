@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?php
+header('content-type: text/xml');
+echo"<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n";
+?>
 <Response>
-    <Message>This is a test, thank you!</Message>
+    <Sms>This is a test</Sms>
 </Response>
