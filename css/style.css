@@ -3,6 +3,7 @@
 * {
     background-color: #131518;
     -webkit-overflow-scrolling: touch;
+    overflow: scroll;
 }
 
 .rectangle{
